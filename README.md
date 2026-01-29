@@ -30,3 +30,10 @@ framework of the RAG system rather than changing the retrieval logic itself.
 Precision and recall are key classification model metrics used to evaluate performance, particularly with imbalanced data.
 Precision measures the accuracy of positive predictions (\(TP/(TP+FP)\)), focusing on minimizing false positives,
 while Recall (sensitivity) measures the ability to find all actual positive cases (\(TP/(TP+FN)\)), focusing on minimizing false negatives. 
+
+an interface of our project is 
+<img width="1883" height="928" alt="Screenshot 2026-01-27 161109" src="https://github.com/user-attachments/assets/57fdbcb8-4a50-418f-8af4-27ac09c77c49" />
+for testing, first you need to give him the document ex. company or organisation details, hospital or school details. after uploading you start to ask the questions to model . it gives you the relavant answers from chunks, and decide the renk of chunk then calculate the MRR.
+
+
+
