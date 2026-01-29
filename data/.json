@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Who is the CEO of Apex Dynamics Pvt. Ltd.?",
+    "ground_truth_chunk_id": "leadership_ceo",
+    "category": "leadership"
+  },
+  {
+    "question": "Who founded Apex Dynamics Pvt. Ltd.?",
+    "ground_truth_chunk_id": "company_overview",
+    "category": "company"
+  },
+  {
+    "question": "Where is the headquarters of Apex Dynamics located?",
+    "ground_truth_chunk_id": "company_overview",
+    "category": "company"
+  },
+  {
+    "question": "What is the core business domain of Apex Dynamics?",
+    "ground_truth_chunk_id": "company_overview",
+    "category": "company"
+  },
+  {
+    "question": "Which countries does Apex Dynamics operate in?",
+    "ground_truth_chunk_id": "company_operations_countries",
+    "category": "operations"
+  },
+  {
+    "question": "What are the primary products manufactured by Apex Dynamics?",
+    "ground_truth_chunk_id": "production_products",
+    "category": "production"
+  },
+  {
+    "question": "Which product generates the highest revenue for Apex Dynamics?",
+    "ground_truth_chunk_id": "production_revenue_product",
+    "category": "production"
+  },
+  {
+    "question": "Where are the main production plants located?",
+    "ground_truth_chunk_id": "production_locations",
+    "category": "production"
+  },
+  {
+    "question": "What is the annual production capacity of Apex Dynamics?",
+    "ground_truth_chunk_id": "production_capacity",
+    "category": "production"
+  },
+  {
+    "question": "Which certifications does the production unit hold?",
+    "ground_truth_chunk_id": "production_certifications",
+    "category": "production"
+  },
+  {
+    "question": "How many total employees work at Apex Dynamics?",
+    "ground_truth_chunk_id": "hr_employee_count",
+    "category": "hr"
+  },
+  {
+    "question": "Who is the Head of Human Resources at Apex Dynamics?",
+    "ground_truth_chunk_id": "hr_head",
+    "category": "hr"
+  },
+  {
+    "question": "What is the employee retention rate at Apex Dynamics?",
+    "ground_truth_chunk_id": "hr_retention",
+    "category": "hr"
+  },
+  {
+    "question": "Who is the Chief Financial Officer of Apex Dynamics?",
+    "ground_truth_chunk_id": "leadership_cfo",
+    "category": "leadership"
+  },
+  {
+    "question": "How many directors are on the board of Apex Dynamics?",
+    "ground_truth_chunk_id": "leadership_board",
+    "category": "leadership"
+  },
+  {
+    "question": "Who is the Head of Research and Development?",
+    "ground_truth_chunk_id": "department_rnd",
+    "category": "department"
+  },
+  {
+    "question": "What was the revenue of Apex Dynamics in the last financial year?",
+    "ground_truth_chunk_id": "finance_revenue",
+    "category": "finance"
+  },
+  {
+    "question": "What sustainability initiatives has Apex Dynamics implemented?",
+    "ground_truth_chunk_id": "sustainability",
+    "category": "strategy"
+  },
+  {
+    "question": "Which markets is Apex Dynamics planning to expand into?",
+    "ground_truth_chunk_id": "future_expansion",
+    "category": "strategy"
+  },
+  {
+    "question": "What are the major challenges currently faced by Apex Dynamics?",
+    "ground_truth_chunk_id": "business_challenges",
+    "category": "strategy"
+  }
+]
+
+

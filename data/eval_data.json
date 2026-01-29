@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is Sunrise Multispeciality Hospital?",
+        "ground_truth_chunk_id": "0"
+    },
+    {
+        "question": "What services does the hospital provide?",
+        "ground_truth_chunk_id": "1"
+    },
+    {
+        "question": "Does the hospital offer telemedicine services?",
+        "ground_truth_chunk_id": "1"
+    },
+    {
+        "question": "Where is the hospital located?",
+        "ground_truth_chunk_id": "3"
+    },
+    {
+        "question": "What are the key features or facilities of the hospital?",
+        "ground_truth_chunk_id": "3"
+    }
+]
