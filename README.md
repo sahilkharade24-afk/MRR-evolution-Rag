@@ -26,3 +26,7 @@ performance. Instead of only retrieving documents, I measured how effectively th
 relevant information. By using MRR, I was able to evaluate and improve the quality of retrieved results
 and understand how ranking impacts final answer accuracy. This step strengthened the evaluation
 framework of the RAG system rather than changing the retrieval logic itself.
+
+Precision and recall are key classification model metrics used to evaluate performance, particularly with imbalanced data.
+Precision measures the accuracy of positive predictions (\(TP/(TP+FP)\)), focusing on minimizing false positives,
+while Recall (sensitivity) measures the ability to find all actual positive cases (\(TP/(TP+FN)\)), focusing on minimizing false negatives. 
